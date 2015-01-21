@@ -26,6 +26,4 @@ Media.prototype.stopRecord = function () {
   this.success();
 };
 
-module.exports = function (src, success) {
-  return new Media(src, success);
-};
+module.exports = Media;
