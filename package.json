@@ -1,0 +1,28 @@
+{
+  "author": "Dennis Torres <djtorres0@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/psirenny/cordova-plugin-media-stub/issues"
+  },
+  "description": "A Derby JS connection component.",
+  "devDependencies": {
+    "tape": "^3.4.0"
+  },
+  "keywords": [
+    "component",
+    "connection",
+    "derby",
+    "reconnect"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "cordova-plugin-media-stub",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psirenny/cordova-plugin-media-stub.git"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "version": "1.0.0"
+}
