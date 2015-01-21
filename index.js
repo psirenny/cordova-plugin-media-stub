@@ -22,6 +22,8 @@ Media.prototype.stop = function () {
   this.success();
 };
 
+Media.prototype.stub = true;
+
 Media.prototype.stopRecord = function () {
   this.success();
 };

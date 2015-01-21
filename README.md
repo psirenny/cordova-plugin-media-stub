@@ -18,3 +18,8 @@ Usage
     var media = Media('...');
     media.startRecord();
     media.stopRecord();
+
+Extra Properties
+----------------
+
+**stub** - Always set to true. Indicates that this is a stub media object.
