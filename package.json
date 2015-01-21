@@ -3,7 +3,7 @@
   "bugs": {
     "url": "https://github.com/psirenny/cordova-plugin-media-stub/issues"
   },
-  "description": "A Derby JS connection component.",
+  "description": "A cordova media object stub.",
   "devDependencies": {
     "tape": "^3.4.0"
   },
